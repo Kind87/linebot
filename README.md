@@ -1,0 +1,1 @@
+LLM:Qwen3.8-27B:Q3_K_M
